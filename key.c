@@ -4,7 +4,8 @@
 	AUTHOR:	牛亚犇
 	E-MAIL:	niuyabeng@126.com
 */
-//
+
+//adding to use how to use github
 /*	
 	说明:
 	1、适用于4*4矩阵键盘
